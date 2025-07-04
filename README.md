@@ -46,11 +46,11 @@ A multi-variable time series built from:
 ---
 
 ## 🛠️ Tech Stack
-🐍 Python
-📦 Prophet (Meta)
-📊 Pandas, Seaborn, Matplotlib
-📁 Jupyter Notebooks
-📁 Data folder: data/ contains raw and cleaned datasets
+- 🐍 Python
+- 📦 Prophet (Meta)
+- 📊 Pandas, Seaborn, Matplotlib
+- 📁 Jupyter Notebooks
+- 📁 Data folder: data/ contains raw and cleaned datasets
 
 ---
 
